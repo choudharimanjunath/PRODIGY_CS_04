@@ -32,4 +32,4 @@
 </ul>
 
 <h2>👨‍💻 Author</h2>
-<p>Developed by likith N | For academic and ethical research purposes</p>
+<p>Developed by Manjunath Choudhari | For academic and ethical research purposes</p>
